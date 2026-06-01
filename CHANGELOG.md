@@ -1,4 +1,4 @@
-# GoPanel v1.0.63 — Patch Release
+       # GoPanel v1.0.63 — Patch Release
 # + FIX: NameError log в metrics.py (NameError при AccessDenied)
 # + FIX: Race condition retry в gopanel-systemctl при чтении services.json
 # + FIX: gopanel-attach — attach вместо new-session (лишний процесс)
@@ -18,4 +18,4 @@
 ✓ Панель горячих клавиш и статистики сессии                   
 ✓ AlertsPanel растягивается до InfoPanel                      
 ✓ CPU всегда показывал 0.0% — исправлено кешированием Process 
-✓ Удалён нефункциональный экран метрик (клавиша 3)                
+✓ Удалён нефункциональный экран метрик (клавиша 3)         
