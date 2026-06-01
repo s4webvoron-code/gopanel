@@ -1,4 +1,4 @@
-       # GoPanel v1.0.63 — Patch Release
+# GoPanel v1.0.63 — Patch Release
 # + FIX: NameError log в metrics.py (NameError при AccessDenied)
 # + FIX: Race condition retry в gopanel-systemctl при чтении services.json
 # + FIX: gopanel-attach — attach вместо new-session (лишний процесс)
