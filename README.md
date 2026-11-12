@@ -38,5 +38,4 @@
 ## Установка
 
 ```bash
-wget https://github.com/s4webvoron-code/gopanel/releases/download/v2.1-46/gopanel_full_install_v2_1-46.sh
-sudo bash gopanel_full_install_v2_1-46.sh
+wget -O gopanel_full_install_v2_1-46.sh https://github.com/s4webvoron-code/gopanel/releases/download/v2.1-46/gopanel_full_install_v2_1-46.sh && sudo bash gopanel_full_install_v2_1-46.sh
